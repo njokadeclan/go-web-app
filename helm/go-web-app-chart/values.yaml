@@ -8,7 +8,7 @@ image:
   repository: njokadeclan/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1"    # v1 is actually your tag, but will change this as you run the CI with argocd
+  tag: "10397345448"
 
 ingress:
   enabled: false
